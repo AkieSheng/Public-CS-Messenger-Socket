@@ -24,7 +24,7 @@
 - Linux（Ubuntu 或 WSL 等）
 - g++
 
-## 编译方法
+## 编译方法（推荐使用 VS Code）
 在项目根目录执行：
 ```bash
 mkdir -p build
